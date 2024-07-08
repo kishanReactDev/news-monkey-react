@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "South Africa vs Bangladesh LIVE: ICC T20 World Cup 2024 - cricket score, commentary, video highlights & updates",
+            "description": "South Africa play Bangladesh at the Men's T20 World Cup in New York - follow text updates, radio commentary and video highlights.",
+            "url": "http://www.bbc.co.uk/sport/cricket/live/c5112g11xd8t",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-06-10T15:07:24.0434671Z",
+            "content": "Markram b Taskin 4 (SA 23-3)\r\nThey're in even more trouble now!\r\n12-4 against the Netherlands on Saturday, now 23-3 against Bangladesh as Aiden Markram sees his stumps splattered by Taskin.\r\nAngling … [+147 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "India vs Pakistan: T20 World Cup game shows cricket has arrived in the United States",
+            "description": "India's match against Pakistan at the T20 World Cup shows that cricket has arrived in the United States and the sport is gathering momentum.",
+            "url": "http://www.bbc.co.uk/sport/cricket/articles/c2jjrk9x8vyo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/208d/live/d24066b0-26a5-11ef-80aa-699d54c46324.jpg",
+            "publishedAt": "2024-06-09T23:07:16.5461753Z",
+            "content": "For the first time at this pop-up stadium in Eisenhower Park the plastic wrapping was also taken off the comfy seats in the corporate sections which were barely used for earlier games.\r\nCricket royal… [+1802 chars]"
+        },
+        {
+            "source": {
+              "id": "cbs-news",
+              "name": "CBS News"
+            },
+            "author": "Erica Brown, Paulina Smolinski, Scott MacFarlane, Caroline Linton, Clare Hymes",
+            "title": "Hunter Biden will not testify at gun trial, prosecution and defense wrap their cases - CBS News",
+            "description": "The defense wrapped their case on Monday after deciding not to call Hunter Biden to testify in his own defense.",
+            "url": "https://www.cbsnews.com/news/hunter-biden-testify-gun-trial-lawyers-decision/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/06/10/36427f95-3a37-47bf-b3d0-9ef8b05f7097/thumbnail/1200x630/2a9f97854a3fc3f64d14b9118475064f/gettyimages-2156920944.jpg?v=e6a7e661b3d1c604b3ae2bec0d66302a",
+            "publishedAt": "2024-06-10T18:17:55Z",
+            "content": "Hunter Biden will not be testifying in his own defense at his gun trial, his lawyers said Monday, as the defense and prosecution rested their cases. \r\nThe defense rested its Monday morning after FBI … [+5076 chars]"
+          },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
